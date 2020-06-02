@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c033d83-d581-4d0b-8112-344a4a80ec91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1bkeclTMT7569NgIV4fkOWnqdpT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../go-learn" />
+    <property name="settings.editor.selected.configurable" value="goland.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/service/disk_service" />
+      <recent name="$PROJECT_DIR$/pkg" />
+      <recent name="$PROJECT_DIR$/service" />
+      <recent name="$PROJECT_DIR$/pkg/gredis" />
+      <recent name="$PROJECT_DIR$/pkg/app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestRedisSet in immortality-demo/pkg/gredis">
+    <configuration name="go build immortality-demo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="immortality-demo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="immortality-demo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRedisSet in immortality-demo/pkg/gredis" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="immortality-demo" />
+      <working_directory value="$PROJECT_DIR$/pkg/gredis" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="immortality-demo/pkg/gredis" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestRedisSet$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWorkerPoolError in immortality-demo/pkg/workerpool" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="immortality-demo" />
+      <working_directory value="$PROJECT_DIR$/pkg/workerpool" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="immortality-demo/pkg/workerpool" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestWorkerPoolError$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestRedisSet in immortality-demo/pkg/gredis" />
+        <item itemvalue="Go Test.TestWorkerPoolError in immortality-demo/pkg/workerpool" />
+        <item itemvalue="Go Build.go build immortality-demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c033d83-d581-4d0b-8112-344a4a80ec91" name="Default Changelist" comment="" />
+      <created>1589180600250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589180600250</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1033" y="481" key="FileChooserDialogImpl" timestamp="1590026879418">
+      <screen x="0" y="0" width="2497" height="1440" />
+    </state>
+    <state x="1021" y="481" key="FileChooserDialogImpl/0.0.2467.1440@0.0.2467.1440" timestamp="1589423210186" />
+    <state x="1033" y="481" key="FileChooserDialogImpl/0.0.2497.1440@0.0.2497.1440" timestamp="1590026879418" />
+    <state width="2425" height="561" key="GridCell.Tab.0.bottom" timestamp="1589334220574">
+      <screen x="0" y="0" width="2467" height="1440" />
+    </state>
+    <state width="2425" height="561" key="GridCell.Tab.0.bottom/0.0.2467.1440@0.0.2467.1440" timestamp="1589334220574" />
+    <state width="2425" height="561" key="GridCell.Tab.0.center" timestamp="1589334220565">
+      <screen x="0" y="0" width="2467" height="1440" />
+    </state>
+    <state width="2425" height="561" key="GridCell.Tab.0.center/0.0.2467.1440@0.0.2467.1440" timestamp="1589334220564" />
+    <state width="2425" height="561" key="GridCell.Tab.0.left" timestamp="1589334220561">
+      <screen x="0" y="0" width="2467" height="1440" />
+    </state>
+    <state width="2425" height="561" key="GridCell.Tab.0.left/0.0.2467.1440@0.0.2467.1440" timestamp="1589334220561" />
+    <state width="2425" height="561" key="GridCell.Tab.0.right" timestamp="1589334220568">
+      <screen x="0" y="0" width="2467" height="1440" />
+    </state>
+    <state width="2425" height="561" key="GridCell.Tab.0.right/0.0.2467.1440@0.0.2467.1440" timestamp="1589334220568" />
+    <state width="2425" height="502" key="GridCell.Tab.1.bottom" timestamp="1589274864286">
+      <screen x="0" y="0" width="2467" height="1440" />
+    </state>
+    <state width="2425" height="502" key="GridCell.Tab.1.bottom/0.0.2467.1440@0.0.2467.1440" timestamp="1589274864286" />
+    <state width="2425" height="502" key="GridCell.Tab.1.center" timestamp="1589274864281">
+      <screen x="0" y="0" width="2467" height="1440" />
+    </state>
+    <state width="2425" height="502" key="GridCell.Tab.1.center/0.0.2467.1440@0.0.2467.1440" timestamp="1589274864281" />
+    <state width="2425" height="502" key="GridCell.Tab.1.left" timestamp="1589274864278">
+      <screen x="0" y="0" width="2467" height="1440" />
+    </state>
+    <state width="2425" height="502" key="GridCell.Tab.1.left/0.0.2467.1440@0.0.2467.1440" timestamp="1589274864278" />
+    <state width="2425" height="502" key="GridCell.Tab.1.right" timestamp="1589274864283">
+      <screen x="0" y="0" width="2467" height="1440" />
+    </state>
+    <state width="2425" height="502" key="GridCell.Tab.1.right/0.0.2467.1440@0.0.2467.1440" timestamp="1589274864283" />
+    <state x="566" y="274" key="SettingsEditor" timestamp="1589853911779">
+      <screen x="0" y="0" width="2497" height="1440" />
+    </state>
+    <state x="559" y="274" key="SettingsEditor/0.0.2467.1440@0.0.2467.1440" timestamp="1589180998121" />
+    <state x="566" y="274" key="SettingsEditor/0.0.2497.1440@0.0.2497.1440" timestamp="1589853911779" />
+  </component>
+</project>
